@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../get_next_line"
+		},
+		{
+			"path": "../libft"
+		}
+	],
+	"settings": {}
+}
